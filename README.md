@@ -1,5 +1,5 @@
 # Image-Forgery-Detection-using-ELA-
-Developed a Python Script for passive image forgery detection using the Error Level Analysis(ELA) algorithm.
+• Developed a Python Script for passive image forgery detection using the Error Level Analysis(ELA) algorithm.
 <br>
 • Reviewed the research paper titled Passive Image Forgery Detection Based on the Demosaicing Algorithm and JPEG
 <br>
